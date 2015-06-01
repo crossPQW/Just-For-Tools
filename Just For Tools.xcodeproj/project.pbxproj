@@ -14,6 +14,14 @@
 		85E0999F1B1CA60800D0E605 /* Images.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 85E0999E1B1CA60800D0E605 /* Images.xcassets */; };
 		85E099A21B1CA60800D0E605 /* LaunchScreen.xib in Resources */ = {isa = PBXBuildFile; fileRef = 85E099A01B1CA60800D0E605 /* LaunchScreen.xib */; };
 		85E099AE1B1CA60800D0E605 /* Just_For_ToolsTests.m in Sources */ = {isa = PBXBuildFile; fileRef = 85E099AD1B1CA60800D0E605 /* Just_For_ToolsTests.m */; };
+		85E09B6B1B1CA89D00D0E605 /* NSString+TextSize.m in Sources */ = {isa = PBXBuildFile; fileRef = 85E09B6A1B1CA89D00D0E605 /* NSString+TextSize.m */; };
+		85E09B6E1B1CA8A500D0E605 /* UIImage+Tools.m in Sources */ = {isa = PBXBuildFile; fileRef = 85E09B6D1B1CA8A500D0E605 /* UIImage+Tools.m */; };
+		85E09B711B1CA8AF00D0E605 /* UIView+XZ.m in Sources */ = {isa = PBXBuildFile; fileRef = 85E09B701B1CA8AF00D0E605 /* UIView+XZ.m */; };
+		85E09B741B1CA8B700D0E605 /* UIImage+Resizable.m in Sources */ = {isa = PBXBuildFile; fileRef = 85E09B731B1CA8B700D0E605 /* UIImage+Resizable.m */; };
+		85E09B771B1CA8BF00D0E605 /* NSString+Path.m in Sources */ = {isa = PBXBuildFile; fileRef = 85E09B761B1CA8BF00D0E605 /* NSString+Path.m */; };
+		85E09B7A1B1CA8C700D0E605 /* CZMultipartFormDataRequest.m in Sources */ = {isa = PBXBuildFile; fileRef = 85E09B791B1CA8C700D0E605 /* CZMultipartFormDataRequest.m */; };
+		85E09B7D1B1CA8CE00D0E605 /* NSArray+Log.m in Sources */ = {isa = PBXBuildFile; fileRef = 85E09B7C1B1CA8CE00D0E605 /* NSArray+Log.m */; };
+		85E09B801B1CA8D600D0E605 /* NSString+Hash.m in Sources */ = {isa = PBXBuildFile; fileRef = 85E09B7F1B1CA8D600D0E605 /* NSString+Hash.m */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
@@ -40,6 +48,23 @@
 		85E099A71B1CA60800D0E605 /* Just For ToolsTests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = "Just For ToolsTests.xctest"; sourceTree = BUILT_PRODUCTS_DIR; };
 		85E099AC1B1CA60800D0E605 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
 		85E099AD1B1CA60800D0E605 /* Just_For_ToolsTests.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = Just_For_ToolsTests.m; sourceTree = "<group>"; };
+		85E09B681B1CA89200D0E605 /* PerformSelector.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = PerformSelector.h; sourceTree = "<group>"; };
+		85E09B691B1CA89D00D0E605 /* NSString+TextSize.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = "NSString+TextSize.h"; sourceTree = "<group>"; };
+		85E09B6A1B1CA89D00D0E605 /* NSString+TextSize.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = "NSString+TextSize.m"; sourceTree = "<group>"; };
+		85E09B6C1B1CA8A500D0E605 /* UIImage+Tools.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = "UIImage+Tools.h"; sourceTree = "<group>"; };
+		85E09B6D1B1CA8A500D0E605 /* UIImage+Tools.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = "UIImage+Tools.m"; sourceTree = "<group>"; };
+		85E09B6F1B1CA8AF00D0E605 /* UIView+XZ.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = "UIView+XZ.h"; sourceTree = "<group>"; };
+		85E09B701B1CA8AF00D0E605 /* UIView+XZ.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = "UIView+XZ.m"; sourceTree = "<group>"; };
+		85E09B721B1CA8B700D0E605 /* UIImage+Resizable.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = "UIImage+Resizable.h"; sourceTree = "<group>"; };
+		85E09B731B1CA8B700D0E605 /* UIImage+Resizable.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = "UIImage+Resizable.m"; sourceTree = "<group>"; };
+		85E09B751B1CA8BF00D0E605 /* NSString+Path.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = "NSString+Path.h"; sourceTree = "<group>"; };
+		85E09B761B1CA8BF00D0E605 /* NSString+Path.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = "NSString+Path.m"; sourceTree = "<group>"; };
+		85E09B781B1CA8C700D0E605 /* CZMultipartFormDataRequest.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = CZMultipartFormDataRequest.h; sourceTree = "<group>"; };
+		85E09B791B1CA8C700D0E605 /* CZMultipartFormDataRequest.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = CZMultipartFormDataRequest.m; sourceTree = "<group>"; };
+		85E09B7B1B1CA8CE00D0E605 /* NSArray+Log.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = "NSArray+Log.h"; sourceTree = "<group>"; };
+		85E09B7C1B1CA8CE00D0E605 /* NSArray+Log.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = "NSArray+Log.m"; sourceTree = "<group>"; };
+		85E09B7E1B1CA8D600D0E605 /* NSString+Hash.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = "NSString+Hash.h"; sourceTree = "<group>"; };
+		85E09B7F1B1CA8D600D0E605 /* NSString+Hash.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = "NSString+Hash.m"; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -81,6 +106,7 @@
 		85E099901B1CA60800D0E605 /* Just For Tools */ = {
 			isa = PBXGroup;
 			children = (
+				85E09B671B1CA87400D0E605 /* category */,
 				85E099951B1CA60800D0E605 /* AppDelegate.h */,
 				85E099961B1CA60800D0E605 /* AppDelegate.m */,
 				85E099981B1CA60800D0E605 /* ViewController.h */,
@@ -117,6 +143,30 @@
 				85E099AC1B1CA60800D0E605 /* Info.plist */,
 			);
 			name = "Supporting Files";
+			sourceTree = "<group>";
+		};
+		85E09B671B1CA87400D0E605 /* category */ = {
+			isa = PBXGroup;
+			children = (
+				85E09B681B1CA89200D0E605 /* PerformSelector.h */,
+				85E09B691B1CA89D00D0E605 /* NSString+TextSize.h */,
+				85E09B6A1B1CA89D00D0E605 /* NSString+TextSize.m */,
+				85E09B6C1B1CA8A500D0E605 /* UIImage+Tools.h */,
+				85E09B6D1B1CA8A500D0E605 /* UIImage+Tools.m */,
+				85E09B6F1B1CA8AF00D0E605 /* UIView+XZ.h */,
+				85E09B701B1CA8AF00D0E605 /* UIView+XZ.m */,
+				85E09B721B1CA8B700D0E605 /* UIImage+Resizable.h */,
+				85E09B731B1CA8B700D0E605 /* UIImage+Resizable.m */,
+				85E09B751B1CA8BF00D0E605 /* NSString+Path.h */,
+				85E09B761B1CA8BF00D0E605 /* NSString+Path.m */,
+				85E09B781B1CA8C700D0E605 /* CZMultipartFormDataRequest.h */,
+				85E09B791B1CA8C700D0E605 /* CZMultipartFormDataRequest.m */,
+				85E09B7B1B1CA8CE00D0E605 /* NSArray+Log.h */,
+				85E09B7C1B1CA8CE00D0E605 /* NSArray+Log.m */,
+				85E09B7E1B1CA8D600D0E605 /* NSString+Hash.h */,
+				85E09B7F1B1CA8D600D0E605 /* NSString+Hash.m */,
+			);
+			name = category;
 			sourceTree = "<group>";
 		};
 /* End PBXGroup section */
@@ -220,8 +270,16 @@
 			buildActionMask = 2147483647;
 			files = (
 				85E0999A1B1CA60800D0E605 /* ViewController.m in Sources */,
+				85E09B6B1B1CA89D00D0E605 /* NSString+TextSize.m in Sources */,
+				85E09B7A1B1CA8C700D0E605 /* CZMultipartFormDataRequest.m in Sources */,
+				85E09B801B1CA8D600D0E605 /* NSString+Hash.m in Sources */,
+				85E09B771B1CA8BF00D0E605 /* NSString+Path.m in Sources */,
 				85E099971B1CA60800D0E605 /* AppDelegate.m in Sources */,
+				85E09B7D1B1CA8CE00D0E605 /* NSArray+Log.m in Sources */,
+				85E09B6E1B1CA8A500D0E605 /* UIImage+Tools.m in Sources */,
+				85E09B711B1CA8AF00D0E605 /* UIView+XZ.m in Sources */,
 				85E099941B1CA60800D0E605 /* main.m in Sources */,
+				85E09B741B1CA8B700D0E605 /* UIImage+Resizable.m in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
@@ -418,6 +476,7 @@
 				85E099B31B1CA60800D0E605 /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
 		};
 		85E099B41B1CA60800D0E605 /* Build configuration list for PBXNativeTarget "Just For ToolsTests" */ = {
 			isa = XCConfigurationList;
@@ -426,6 +485,7 @@
 				85E099B61B1CA60800D0E605 /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
 		};
 /* End XCConfigurationList section */
 	};

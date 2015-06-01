@@ -1,0 +1,65 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>IDESourceControlProjectFavoriteDictionaryKey</key>
+	<false/>
+	<key>IDESourceControlProjectIdentifier</key>
+	<string>67A2978A-0BF4-4C6F-8020-EE409D513E45</string>
+	<key>IDESourceControlProjectName</key>
+	<string>Just For Tools</string>
+	<key>IDESourceControlProjectOriginsDictionary</key>
+	<dict>
+		<key>1C1150D7F65F50E0BD2F5E0A6C91DF0FE2145DD9</key>
+		<string>https://github.com/crossPQW/Just-For-Tools.git</string>
+		<key>DD20A1A48C66B5213E0FEBB87A95EF51D6C6F3E8</key>
+		<string>https://github.com/AFNetworking/AFNetworking.git</string>
+		<key>E28E36D423EC87798E52E2BF482E9F7A1E6479D6</key>
+		<string>https://github.com/rs/SDWebImage.git</string>
+	</dict>
+	<key>IDESourceControlProjectPath</key>
+	<string>Just For Tools.xcodeproj</string>
+	<key>IDESourceControlProjectRelativeInstallPathDictionary</key>
+	<dict>
+		<key>1C1150D7F65F50E0BD2F5E0A6C91DF0FE2145DD9</key>
+		<string>../..</string>
+		<key>DD20A1A48C66B5213E0FEBB87A95EF51D6C6F3E8</key>
+		<string>../..Just%20For%20Tools/%E5%B0%81%E8%A3%85%E5%A5%BD%E7%9A%84%E5%B7%A5%E5%85%B7%E4%BB%A3%E7%A0%81/%E7%AC%AC%E4%B8%89%E6%96%B9%E6%A1%86%E6%9E%B6/AFNetworking</string>
+		<key>E28E36D423EC87798E52E2BF482E9F7A1E6479D6</key>
+		<string>../..Just%20For%20Tools/%E5%B0%81%E8%A3%85%E5%A5%BD%E7%9A%84%E5%B7%A5%E5%85%B7%E4%BB%A3%E7%A0%81/%E7%AC%AC%E4%B8%89%E6%96%B9%E6%A1%86%E6%9E%B6/SDWebImage</string>
+	</dict>
+	<key>IDESourceControlProjectURL</key>
+	<string>https://github.com/crossPQW/Just-For-Tools.git</string>
+	<key>IDESourceControlProjectVersion</key>
+	<integer>111</integer>
+	<key>IDESourceControlProjectWCCIdentifier</key>
+	<string>1C1150D7F65F50E0BD2F5E0A6C91DF0FE2145DD9</string>
+	<key>IDESourceControlProjectWCConfigurations</key>
+	<array>
+		<dict>
+			<key>IDESourceControlRepositoryExtensionIdentifierKey</key>
+			<string>public.vcs.git</string>
+			<key>IDESourceControlWCCIdentifierKey</key>
+			<string>DD20A1A48C66B5213E0FEBB87A95EF51D6C6F3E8</string>
+			<key>IDESourceControlWCCName</key>
+			<string>AFNetworking</string>
+		</dict>
+		<dict>
+			<key>IDESourceControlRepositoryExtensionIdentifierKey</key>
+			<string>public.vcs.git</string>
+			<key>IDESourceControlWCCIdentifierKey</key>
+			<string>1C1150D7F65F50E0BD2F5E0A6C91DF0FE2145DD9</string>
+			<key>IDESourceControlWCCName</key>
+			<string>Just%20For%20Tools</string>
+		</dict>
+		<dict>
+			<key>IDESourceControlRepositoryExtensionIdentifierKey</key>
+			<string>public.vcs.git</string>
+			<key>IDESourceControlWCCIdentifierKey</key>
+			<string>E28E36D423EC87798E52E2BF482E9F7A1E6479D6</string>
+			<key>IDESourceControlWCCName</key>
+			<string>SDWebImage</string>
+		</dict>
+	</array>
+</dict>
+</plist>
